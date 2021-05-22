@@ -4,3 +4,6 @@ Machine Learning is the fastest-growing technique in many fields and the healthc
 ## Introduction
 
 According to World Health Organisation (WHO), stroke are the second leading cause of death and the third leading cause of disability globally. Stroke is the sudden death of some brain cells due to lack of oxygen when the blood flow to the brain is lost by blockage or rupture of an artery to the brain, it is also a leading cause of dementia and depression.
+
+## Data Source
+A population of 5110 people are involved in this study with 2995 females and 2115 males. The dataset for this study is extracted from Kaggle data respositories (https://www.kaggle.com/datasets) to predict whether a patient is likely to get stroke based on the following attribute information:
